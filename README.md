@@ -14,8 +14,9 @@ Further, it has code to commnicate with an Arduino-UNO to recieve orders and con
 
 
 <button style="background-color:azure;color:white;width:200px;
-height:40px;">[Link to the report](/docs/itsp/automated_dispensary.pdf)</button>
+height:40px;">[Link to the report](https://github.com/Dipeshtamboli/Autonated-Dispensary/blob/master/report/automated_dispensary_report.pdf)</button>
 
+<!-- /home/dipesh/Automated--Dispensary/report/automated_dispensary_report.pdf -->
 
 <figure class="video_container">
   <video controls="true" width="888" height="500" allowfullscreen="true" poster="/images/itsp/vid_thumb.png">
