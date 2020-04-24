@@ -20,7 +20,10 @@ height:40px;">[Link to the report](https://github.com/Dipeshtamboli/Autonated-Di
 
 [![Watch the video](https://dipeshtamboli.github.io/images/itsp/vid_thumb.png)](https://github.com/Dipeshtamboli/Autonated-Dispensary/blob/master/report/itsp_demo_video.mp4)
 
-![](https://github.com/Dipeshtamboli/Autonated-Dispensary/blob/master/report/itsp_demo_video.mp4)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZnAt6lENtlY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- ![](https://github.com/Dipeshtamboli/Autonated-Dispensary/blob/master/report/itsp_demo_video.mp4)
 
 <video width="320" height="240" controls>
   <source src="https://github.com/Dipeshtamboli/Autonated-Dispensary/blob/master/report/itsp_demo_video.mp4" type="video/mp4">
@@ -33,4 +36,4 @@ height:40px;">[Link to the report](https://github.com/Dipeshtamboli/Autonated-Di
     <source src="https://dipeshtamboli.github.io/videos/itsp/itsp_demo_video.ogg" type="video/ogg">
     <source src="https://dipeshtamboli.github.io/videos/itsp/itsp_demo_video.webm" type="video/webm">
   </video>
-</figure>
+</figure> -->
