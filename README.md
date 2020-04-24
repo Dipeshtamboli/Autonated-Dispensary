@@ -18,6 +18,8 @@ height:40px;">[Link to the report](https://github.com/Dipeshtamboli/Autonated-Di
 
 <!-- /home/dipesh/Automated--Dispensary/report/automated_dispensary_report.pdf -->
 
+![](https://github.com/Dipeshtamboli/Autonated-Dispensary/blob/master/report/itsp_demo_video.mp4)
+
 <video width="320" height="240" controls>
   <source src="https://github.com/Dipeshtamboli/Autonated-Dispensary/blob/master/report/itsp_demo_video.mp4" type="video/mp4">
 </video>
